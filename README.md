@@ -17,7 +17,7 @@ python jwt_inspector.py --token <JWT> --decode
 python jwt_inspector.py --token <JWT> --verify --key mysecret
 python jwt_inspector.py --token <JWT> --bruteforce --wordlist wordlists/common_secrets.txt
 ```
-#Warning
+## Warning
 
 This tool is for educational and ethical use only. Do not use it against systems without permission.
 
