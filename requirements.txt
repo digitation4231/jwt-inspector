@@ -1,0 +1,10 @@
+# JWT Inspector Requirements
+
+# Core cryptographic library for RSA/ECDSA support
+cryptography>=41.0.0
+
+# Optional: Enhanced argument parsing and formatting
+rich>=13.0.0
+
+# Optional: Progress bars for bruteforce operations
+tqdm>=4.65.0
